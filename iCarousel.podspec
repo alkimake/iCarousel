@@ -6,12 +6,12 @@
     "file": "LICENCE.md"
   },
   "summary": "A class designed to simplify the implementation of various types of carousel.",
-  "homepage": "https://github.com/nicklockwood/iCarousel",
+  "homepage": "https://github.com/alkimake/iCarousel",
   "authors": {
     "Nick Lockwood": "support@charcoaldesign.co.uk"
   },
   "source": {
-    "git": "https://github.com/nicklockwood/iCarousel.git",
+    "git": "https://github.com/alkimake/iCarousel.git",
     "tag": "1.8"
   },
   "source_files": "iCarousel/iCarousel.{h,m}",
